@@ -1,0 +1,1 @@
+This Project involves collecting tweets from Twitter's API and analyzing them to determine the sentiment expressed in the text. The goal is to classify tweets as positive, negative, or neutral, and possibly more nuanced emotions like anger, joy, or sadness.
